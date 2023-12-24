@@ -41,3 +41,16 @@
   grid-column: 1;
   grid-row: 3;
 }
+
+.snowman {
+  vertical-align: middle;
+}
+.em {
+  vertical-align: middle;
+}
+
+.tui {
+  vertical-align: middle;
+  margin-left: -300px;  
+  margin-top: -113px;
+}
